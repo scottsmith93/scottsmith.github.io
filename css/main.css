@@ -18,12 +18,12 @@ a {
 }
 a:hover {
     text-decoration: none;
-    colour: #7C2855;
+    color: #7C2855;
 }
 a:active {
     text-decoration: none;
     background-color: #ffeb3b;
-    colour: #212b32;
+    color: #212b32;
 }
 h1 {
     font-size: 3em;
