@@ -28,13 +28,13 @@ a:active {
 }
 h1 {
     font-size: 3em;
-    font-family:'silkamono', 'Arial', 'Sans-Serif';
+    font-family:'silka_monobold', 'Arial', 'Sans-Serif';
     color: #17303A;
     padding-top:24px;
 }
 h2 {
     font-size: 2em;
-    font-family:'silkamono', 'Arial', 'Sans-Serif';
+    font-family:'silka_monobold', 'Arial', 'Sans-Serif';
     color: #17303A;
     padding-top:16px;
 }
