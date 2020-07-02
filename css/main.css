@@ -1,7 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #EBEFF2;
 }
+}
+
 nav ul, footer ul {
     font-family:'HK-Grotesk', 'Arial', 'Sans-Serif';
     padding: 0px;
