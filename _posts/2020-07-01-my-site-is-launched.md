@@ -6,11 +6,11 @@ date: 2020-01-07
 
 <h1>Welcome</h1>
 
-<p>It's taken quite a long time, but I've pulled my finger out and put this small site together. However basic, I've wanted something which I can say I've created entirely from scratch, and feels quite lightweight, too. Create it from scratch and level up my coding abilities along the way too. It's also free to host too. Voila. It's still a WIP as I type, but meh.</p> 
+<p>It's taken quite a long time, but I've pulled my finger out and put this small site together. However basic at the moment, I've wanted something which I can say I've created entirely from scratch, and feels quite lightweight, too. Create it from scratch and level up my coding abilities along the way too. It's also free to host. Voila. It's still a WIP as I type, but meh.</p> 
 
 <p>I've wanted to set something up like this for a while.</p>
 
-<p>I've only done it now, maybe, as a reaction to my current working sitatuion, which is working from home permanently until September at the very least. In this current climate, I'm sure everyone's a bit overwhelmed with the amount of meetings we have to endure and read <a href="https://www.bbc.com/worklife/article/20200421-why-zoom-video-chats-are-so-exhausting">how much more exhausting virtual meetings are than in-person ones</a>. FFS.</p>
+<p>I've only done it now, maybe, as a reaction to my current working sitatuion, which is working from home permanently until September at the very least. In this current climate, I'm sure a lot of people are overwhelmed with the amount of meetings we have to endure and have read <a href="https://www.bbc.com/worklife/article/20200421-why-zoom-video-chats-are-so-exhausting">how much more exhausting virtual meetings are than in-person ones</a>. Side note: let's not forget we're fortunate to be able to work from home.</p>
 
 <h2>Why have I set this up? Why now?</h2>
 
@@ -18,11 +18,15 @@ date: 2020-01-07
 
 <p>I'd say I'm at my best when surrounded by the team in the office, reading the room, the mood, helping get ideas flowing and providing everyone with a space to contribute to solving problems and catering for user needs together. I don't get to do that at the moment and I've felt myself retreat into the imposter shell because it's the easy thing to do.</p>
 
-<p>I also, however, have <strong>a lot</strong> of thoughts that I want to start jotting down and share outwards. Mainly about the state of the design industry, the word Agile (it's a swear word to me which I'll explain at some point), design process-y things. <a href="https://twitter.com/OfficeOfWilson">Si</a> is usually on the receiving end of some small rants and feel it'd be good to use this site as a place to get better at processing my thoughts and writing points down clearly.</p>
+<p>The very idea of putting words together and putting them on the Internet for people to judge is nauseating. I need to snap out of this, I'm not going to get very far if I'm afraid of putting a few words out there, nevermind the service I'm working on in which millions of people interact with every year.</p>
 
-<p>I hope by putting ideas to paper it'll help me buck my ideas up and get back to 'Walking the Walk', when my posts are likely to come across as me 'Talking the Talk'.</p>
+<p>I also, however, have <strong>a lot</strong> of thoughts that I want to start jotting down and share outwards. Mainly about the state of the design industry, the word Agile (it's a swear word to me which I'll explain at some point) and other design process-y things. <a href="https://twitter.com/OfficeOfWilson">Si</a> is usually on the receiving end of some small rants and feel it'd be good to use this site as a place to get better at processing my thoughts and writing points down clearly. Sometimes they'll be quite long, sometimes they'll be pretty short.</p>
+
+<p>I hope by putting ideas and thoughts to paper it'll help me buck my ideas up and get back to 'Walking the Walk', when my posts are likely to come across as me 'Talking the Talk'.</p>
 
 <p>I also hope some things I write are the kinds of things others feel they needed to hear. I hope it can generate legitimate conversations off the back of them. Just away from Design Twitter™. Please.</p>
 
-<p>If you'd like up something similar, I followed along this <a href="www.jmcglone.com/guides/github-pages/#">really simple step by step process</a>.</p>
+<p>To add accountability, the first thing I want to share, and will share soon, are some thoughts around the hidden tasks Designers need to do that are often not accounted for when scoping out work. The Unsexy Design Work.</p>
+
+<p>If you'd like to set up something similar, I followed along this <a href="www.jmcglone.com/guides/github-pages/#">really simple step by step process</a>.</p>
 
