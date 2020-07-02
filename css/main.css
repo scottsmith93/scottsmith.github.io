@@ -20,12 +20,17 @@ a:hover {
     text-decoration: none;
     colour: #7C2855;
 }
+a:active {
+    text-decoration: none;
+    background-color: #ffeb3b;
+    colour: #212b32;
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 2.5em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
