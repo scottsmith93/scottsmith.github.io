@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Debut Blog Post"
-date: 2020-01-07
+date: 2020-07-02
 ---
 
 <h1>Welcome</h1>
