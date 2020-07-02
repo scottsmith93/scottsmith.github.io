@@ -40,7 +40,7 @@ h2 {
 }
 p {
     font-size: 1.5em;
-    font-family:'basiecircle', 'Arial', 'Sans-Serif';
+    font-family:'basiercircle', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #314251;
 }
@@ -60,10 +60,10 @@ ul.posts li {
     list-style: none;
 }
 @font-face {
-  font-family: "SilkaMono";
+  font-family: "silkamono";
   src: url("../assets/fonts/silkamono.woff");
 }
 @font-face {
-  font-family: "Basiecircle";
+  font-family: "basiercircle";
   src: url("../assets/fonts/basiecircle.woff");
 }
