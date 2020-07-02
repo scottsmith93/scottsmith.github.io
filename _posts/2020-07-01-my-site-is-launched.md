@@ -24,5 +24,5 @@ date: 2020-01-07
 
 <p>I also hope some things I write are the kinds of things others feel they needed to hear. I hope it can generate legitimate conversations off the back of them. Just away from Design Twitter™. Please.</p>
 
-<p>If you'd like up something similar, I followed along this <a href="jmcglone.com/guides/github-pages/#">really simple step by step process</a>.</p>
+<p>If you'd like up something similar, I followed along this <a href="www.jmcglone.com/guides/github-pages/#">really simple step by step process</a>.</p>
 
