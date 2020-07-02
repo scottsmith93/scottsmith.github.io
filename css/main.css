@@ -3,8 +3,6 @@ body {
     width: 70%;
     background-color: #EBEFF2;
 }
-}
-
 nav ul, footer ul {
     font-family:'HK-Grotesk', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -31,17 +29,19 @@ a:active {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #17303A;
     padding-top:24px;
 }
 h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #17303A;
     padding-top:16px;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #212b32;
+    color: #314251;
 }
 footer {
     border-top: 1px solid #d5d5d5;
