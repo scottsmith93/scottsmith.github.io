@@ -99,11 +99,11 @@ ul.posts li {
 
 @font-face {
     font-family: 'basier_circlemedium';
-    src: url('../scottsmith93.github.io/assets/fonts/basiercircle/basiercircle-medium-webfont.eot');
-    src: url('../scottsmith93.github.io/assets/fonts/basiercircle/basiercircle-medium-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../scottsmith93.github.io/assets/fonts/basiercircle/basiercircle-medium-webfont.woff2') format('woff2'),
-         url('../scottsmith93.github.io/assets/fonts/basiercircle/basiercircle-medium-webfont.ttf') format('truetype'),
-         url('../scottsmith93.github.io/assets/fonts/basiercircle/basiercircle-medium-webfont.svg#basier_circlemedium') format('svg');
+    src: url('@{plChildRoot}/fonts/basiercircle/basiercircle-medium-webfont.eot');
+    src: url('@{plChildRoot}/fonts/basiercircle/basiercircle-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('@{plChildRoot}/fonts/basiercircle/basiercircle-medium-webfont.woff2') format('woff2'),
+         url('@{plChildRoot}/fonts/basiercircle/basiercircle-medium-webfont.ttf') format('truetype'),
+         url('@{plChildRoot}/fonts/basiercircle/basiercircle-medium-webfont.svg#basier_circlemedium') format('svg');
     font-weight: normal;
     font-style: normal;
 
