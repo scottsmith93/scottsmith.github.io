@@ -28,12 +28,12 @@ a:active {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding-top:16px;
+    padding-top:24px;
 }
 h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding-top:12px;
+    padding-top:16px;
 }
 p {
     font-size: 1.5em;
