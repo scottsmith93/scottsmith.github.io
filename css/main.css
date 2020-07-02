@@ -70,11 +70,11 @@ ul.posts li {
 
 @font-face {
     font-family: 'basier_circlemedium';
-    src: url('../assets/fonts/basiercircle-medium-webfont.eot');
-    src: url('../assets/fonts/basiercircle-medium-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../assets/fonts/basiercircle-medium-webfont.woff2') format('woff2'),
-         url('../assets/fonts/basiercircle-medium-webfont.ttf') format('truetype'),
-         url('../assets/fonts/basiercircle-medium-webfont.svg#basier_circlemedium') format('svg');
+    src: url('../scottsmith93.github.io/assets/fonts/basiercircle-medium-webfont.eot');
+    src: url('../scottsmith93.github.io/assets/fonts/basiercircle-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../scottsmith93.github.io/assets/fonts/basiercircle-medium-webfont.woff2') format('woff2'),
+         url('../scottsmith93.github.io/assets/fonts/basiercircle-medium-webfont.ttf') format('truetype'),
+         url('../scottsmith93.github.io/assets/fonts/basiercircle-medium-webfont.svg#basier_circlemedium') format('svg');
     font-weight: normal;
     font-style: normal;
 
