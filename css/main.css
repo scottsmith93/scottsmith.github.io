@@ -29,8 +29,7 @@ a:active {
 h1 {
     font-size: 4em;
     font-family:'silka_monobold', 'Arial', 'Sans-Serif';
-    color: #F78777;
-    background-color: #2C2CF2;
+    color: #2C2CF2;
     padding-top:24px;
 }
 h2 {
@@ -41,7 +40,7 @@ h2 {
 }
 p {
     font-size: 1.5em;
-    font-family:'basier_circlregular', 'Arial', 'Sans-Serif';
+    font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
     line-height: 1.8em;
     color: #262626;
 }
@@ -197,7 +196,8 @@ ul.posts li {
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-black-webfont.eot');
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-black-webfont.eot?#iefix') format('embedded-opentype'),
          url('../scottsmith93.github.io/assets/fonts/silkamono-black-webfont.woff2') format('woff2'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-black-webfont.ttf') format('truetype');
+         url('../scottsmith93.github.io/assets/fonts/silkamono-black-webfont.ttf') format('truetype'),
+         url('../scottsmith93.github.io/assets/silkamono-black-webfont.svg#silka_monoblack') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -211,18 +211,12 @@ ul.posts li {
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-regular-webfont.eot');
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('../scottsmith93.github.io/assets/fonts/silkamono-regular-webfont.woff2') format('woff2'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-regular-webfont.ttf') format('truetype');
+         url('../scottsmith93.github.io/assets/fonts/silkamono-regular-webfont.ttf') format('truetype'),
+         url('../scottsmith93.github.io/assets/fonts/silkamono-regular-webfont.svg#silka_monoregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
-
-
-
-
-
-
-
 
 
 @font-face {
@@ -230,7 +224,8 @@ ul.posts li {
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-bold-webfont.eot');
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-bold-webfont.eot?#iefix') format('embedded-opentype'),
          url('../scottsmith93.github.io/assets/fonts/silkamono-bold-webfont.woff2') format('woff2'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-bold-webfont.ttf') format('truetype');
+         url('../scottsmith93.github.io/assets/fonts/silkamono-bold-webfont.ttf') format('truetype'),
+         url('../scottsmith93.github.io/assets/fonts/silkamono-bold-webfont.svg#silka_monobold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -244,7 +239,8 @@ ul.posts li {
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-light-webfont.eot');
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-light-webfont.eot?#iefix') format('embedded-opentype'),
          url('../scottsmith93.github.io/assets/fonts/silkamono-light-webfont.woff2') format('woff2'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-light-webfont.ttf') format('truetype');
+         url('../scottsmith93.github.io/assets/fonts/silkamono-light-webfont.ttf') format('truetype'),
+         url('../scottsmith93.github.io/assets/fonts/silkamono-light-webfont.svg#silka_monolight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -258,7 +254,8 @@ ul.posts li {
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-medium-webfont.eot');
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-medium-webfont.eot?#iefix') format('embedded-opentype'),
          url('../scottsmith93.github.io/assets/fonts/silkamono-medium-webfont.woff2') format('woff2'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-medium-webfont.ttf') format('truetype');
+         url('../scottsmith93.github.io/assets/fonts/silkamono-medium-webfont.ttf') format('truetype'),
+         url('../scottsmith93.github.io/assets/fonts/silkamono-medium-webfont.svg#silka_monomedium') format('svg');
     font-weight: normal;
     font-style: normal;
 
