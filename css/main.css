@@ -4,12 +4,13 @@ body {
     background-color: #F4F1E4;
 }
 nav ul, footer ul {
-    font-family:'HK-Grotesk', 'Arial', 'Sans-Serif';
+    font-family:'silka_monolight', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: normal;
 }
 nav ul li, footer ul li {
+    font-family:'silka_monolight', 'Arial', 'Sans-Serif';
     display: inline;
     margin-right: 20px;
 }
@@ -19,24 +20,25 @@ a {
 }
 a:hover {
     text-decoration: none;
-    color: #7C2855;
+    color: #262626;
+    background-color: #2BEDB1;
 }
 a:active {
     text-decoration: none;
-    background-color: #E03885;
+    background-color: #096D4C;
     color: #ffffff;
 }
 h1 {
     font-size: 4em;
     font-family:'silka_monobold', 'Arial', 'Sans-Serif';
-    color: #2C2CF2;
+    color: #EA473B;
     padding-top:24px;
 }
 h2 {
-    font-size: 2em;
+    font-size: 2.5em;
     font-family:'silka_monobold', 'Arial', 'Sans-Serif';
-    color: #17303A;
-    padding-top:16px;
+    color: #EA473B;
+    padding-top:24px;
 }
 p {
     font-size: 1.5em;
