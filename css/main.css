@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #EBEFF2;
+    background-color: #F4F1E4;
 }
 nav ul, footer ul {
     font-family:'HK-Grotesk', 'Arial', 'Sans-Serif';
@@ -27,9 +27,10 @@ a:active {
     color: #ffffff;
 }
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     font-family:'silka_monobold', 'Arial', 'Sans-Serif';
-    color: #17303A;
+    color: #F78777;
+    background-color: #2C2CF2;
     padding-top:24px;
 }
 h2 {
@@ -40,9 +41,9 @@ h2 {
 }
 p {
     font-size: 1.5em;
-    font-family:'basier_circlemedium', 'Arial', 'Sans-Serif';
+    font-family:'basier_circlregular', 'Arial', 'Sans-Serif';
     line-height: 1.8em;
-    color: #314251;
+    color: #262626;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -219,16 +220,7 @@ ul.posts li {
 
 
 
-@font-face {
-    font-family: 'silka_monosemibold';
-    src: url('../scottsmith93.github.io/assets/fonts/silkamono-semibold-webfont.eot');
-    src: url('../scottsmith93.github.io/assets/fonts/silkamono-semibold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-semibold-webfont.woff2') format('woff2'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-semibold-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
 
-}
 
 
 
@@ -267,34 +259,6 @@ ul.posts li {
     src: url('../scottsmith93.github.io/assets/fonts/silkamono-medium-webfont.eot?#iefix') format('embedded-opentype'),
          url('../scottsmith93.github.io/assets/fonts/silkamono-medium-webfont.woff2') format('woff2'),
          url('../scottsmith93.github.io/assets/fonts/silkamono-medium-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'silka_monoextralight';
-    src: url('../scottsmith93.github.io/assets/fonts/silkamono-extralight-webfont.eot');
-    src: url('../scottsmith93.github.io/assets/fonts/silkamono-extralight-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-extralight-webfont.woff2') format('woff2'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-extralight-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'silka_monothin';
-    src: url('../scottsmith93.github.io/assets/fonts/silkamono-thin-webfont.eot');
-    src: url('../scottsmith93.github.io/assets/fonts/silkamono-thin-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-thin-webfont.woff2') format('woff2'),
-         url('../scottsmith93.github.io/assets/fonts/silkamono-thin-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
