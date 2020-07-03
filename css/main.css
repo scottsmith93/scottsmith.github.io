@@ -15,8 +15,9 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
+    font-family:'basier_circleregular_italic', 'Arial', 'Sans-Serif';
     text-decoration: underline;
-    color: #005eb8;
+    color: #2C35DD;
 }
 a:hover {
     text-decoration: none;
@@ -37,8 +38,8 @@ h1 {
 }
 h2 {
     font-size: 3em;
-    font-family:'silka_monobold', 'Arial', 'Sans-Serif';
-    color: #EA473B;
+    font-family:'basier_circlebold', 'Arial', 'Sans-Serif';
+    color: #2C35DD;
     padding-top:24px;
     padding-top:16px;
 }
