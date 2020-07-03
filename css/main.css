@@ -29,19 +29,21 @@ a:active {
     color: #ffffff;
 }
 h1 {
-    font-size: 4em;
+    font-size: 5em;
     font-family:'salomeitalic', 'Arial', 'Sans-Serif';
     color: #2C35DD;
     padding-top:36px;
+    padding-bottom:24px;
 }
 h2 {
-    font-size: 2.5em;
+    font-size: 3em;
     font-family:'silka_monobold', 'Arial', 'Sans-Serif';
     color: #EA473B;
     padding-top:24px;
+    padding-top:16px;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
     line-height: 1.8em;
     color: #262626;
