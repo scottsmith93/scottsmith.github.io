@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #F4F1E4;
+    background-color: #E5EAE6;
 }
 nav ul, footer ul {
     font-family:'silka_monolight', 'Arial', 'Sans-Serif';
@@ -31,15 +31,20 @@ a:active {
 }
 h1 {
     font-size: 5em;
-    font-family:'salomeitalic', 'Arial', 'Sans-Serif';
-    color: #2C35DD;
+    font-family:'Rockwell', 'Arial', 'Sans-Serif';
+    color: #002444;
     padding-top:36px;
     padding-bottom:24px;
 }
+
+span {
+      color: #F96B6B;
+}
+
 h2 {
     font-size: 3em;
     font-family:'basier_circlebold', 'Arial', 'Sans-Serif';
-    color: #2C35DD;
+    color: #002444;
     padding-top:24px;
     padding-top:16px;
 }
