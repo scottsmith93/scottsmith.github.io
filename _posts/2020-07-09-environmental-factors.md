@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Everything Connected"
+title: "Environmental factors"
 date: 2020-07-09
 ---
 
-<h1><span>Everything connected</span></h1>
+<h1><span>Environmental factors</span></h1>
 
 <p>Socioeconomics is in a constant state of change – sometimes for the good, sometimes for the bad. Many factors with complex relationships that are all connected in one way or another. Some we can’t easily see. It’s fragile. Rub one factor the wrong way in isolation of everything else, it can cause a ripple and side affects. It can break things.<p>
 
