@@ -24,7 +24,9 @@ date: 2020-07-09
 
 <p>It’s all good work to be doing, but being aware is valuable and helps the team be more agile.</p>
 
-<h2>The more progressive and aligned environmental factors become, the easier it becomes to meet the user need. This isn’t always the case. In fact, rarely, sadly.</h2>
+<h2>The more progressive and aligned environmental factors become, the easier it becomes to meet the user need.</h2>
+
+<p>This isn’t always the case. In fact, rarely, sadly.</p>
 
 <p>When you’re designing something, you should be designing with intent. You want to push for something. You want to change something. You want to remove something. Whatever the design does, it should always strive to be better than what currently exists. The design is the glue that keeps all of the factors happy.</p>
 
