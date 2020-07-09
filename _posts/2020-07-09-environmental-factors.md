@@ -2,6 +2,8 @@
 layout: post
 title: "Environmental factors"
 date: 2020-07-09
+subtitle: "Environmental factors"
+header-img: "/GitHub/PersonalBlog/scottsmith93.github.io/assets/ss.jpg"
 ---
 
 <h1><span>Environmental factors</span></h1>
