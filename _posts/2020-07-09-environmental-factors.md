@@ -3,7 +3,7 @@ layout: post
 title: "Environmental factors"
 date: 2020-07-09
 subtitle: "Environmental factors"
-image: "/GitHub/PersonalBlog/scottsmith93.github.io/assets/ss.jpg"
+image: "/assets/ss.jpg"
 autors: Scott Smith
 ---
 
