@@ -33,8 +33,8 @@ h1 {
     font-size: 5em;
     font-family:'Rockwell', 'Arial', 'Sans-Serif';
     color: #002444;
-    padding-top:36px;
-    padding-bottom:24px;
+    padding-top:24px;
+    padding-bottom:16px;
 }
 
 span {
@@ -70,6 +70,13 @@ ul.posts li {
     list-style: none;
 }
 
+
+li {
+    font-size: 1.2em;
+    font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
+    line-height: 1.8em;
+    color: #262626;
+}
 
 
 

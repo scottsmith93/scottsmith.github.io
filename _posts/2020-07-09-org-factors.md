@@ -12,7 +12,7 @@ date: 2020-07-09
 
 <p>An effort should be made to be consciously aware of the environmental factors in which your design is going to sit beside within an overall service.</p>
 
-<p>You’ll usually have the following factors, and maybe many more:<p>
+<p><strong>You’ll usually have the following factors, and maybe many more:</strong><p>
 <ul>
   <li><strong>User needs</strong> – will the design meet an end user need?</li>
   <li><strong>Business needs</strong> – will the design benefit the business?</li>
