@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Environmental factors
-description: Small brain fart about being wary of what can deem a design no longe good enough
+summary: Small brain fart about being wary of what can deem a design no longe good enough
 date: 2020-07-09
 subtitle: Environmental factors
 image: /Users/scott.smith/Documents/GitHub/PersonalBlog/scottsmith93.github.io/assets/ss.jpg
