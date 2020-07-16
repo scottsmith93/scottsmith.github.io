@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Environmental factors"
-description: "Small brain fart about being wary of what can deem a design no longe good enough"
+title: Environmental factors
+description: Small brain fart about being wary of what can deem a design no longe good enough
 date: 2020-07-09
-subtitle: "Environmental factors"
-image: "/assets/ss.jpg"
+subtitle: Environmental factors
+image: /assets/ss.jpg
 author: ScottSmith93
-summary: "Small brain fart about being wary of what can deem a design no longe good enough"
 ---
 
 <h1><span>Environmental factors</span></h1>
