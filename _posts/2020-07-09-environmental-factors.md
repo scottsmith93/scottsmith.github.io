@@ -5,7 +5,8 @@ description: "Small brain fart about being wary of what can deem a design no lon
 date: 2020-07-09
 subtitle: "Environmental factors"
 image: "/assets/ss.jpg"
-author: Scott Smith
+author: ScottSmith93
+summary: "Small brain fart about being wary of what can deem a design no longe good enough"
 ---
 
 <h1><span>Environmental factors</span></h1>
