@@ -5,7 +5,7 @@ title:        Environmental Factors
 description:  Small brain fart about being wary of what can deem a design no longe good enough"
 summary:      Design thoughts
 author:       nocarsscott
-image:        /assets/ss.jpg
+image:        ../ss.jpg
 ---
 
 
