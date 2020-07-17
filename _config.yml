@@ -3,4 +3,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 twitter_username: @nocarsscott
 description: "Scott's Blog"
-title_image: assets/ss.jpg
+title_image: "/Users/scott.smith/Documents/GitHub/PersonalBlog/scottsmith93.github.io/assets/ss.jpg"
