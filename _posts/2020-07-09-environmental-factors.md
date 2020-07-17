@@ -7,7 +7,6 @@ author:       Scott Smith
 image:        /images/ss.jpg
 categories:   blog
 
-{{% include /_includes/head.html %}}
 ---
 
 <h1><span>Environmental factors</span></h1>
