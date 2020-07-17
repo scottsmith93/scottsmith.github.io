@@ -1,6 +1,5 @@
 name: Scott's Thoughts
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-twitter username: @nocarsscott
 description: "Scott's Blog"
 image: "/assets/ss.jpg"
