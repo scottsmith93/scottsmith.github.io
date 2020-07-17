@@ -1,6 +1,6 @@
 ---
 layout:       post
-date:         2020-07-09
+date:         2020-07-16 20:19:51 
 title:        Environmental Factors
 description:  Small brain fart about being wary of what can deem a design no longer good enough
 author:       Scott Smith
@@ -9,13 +9,6 @@ categories:   blog
 
 ---
 
-
-<!-- layout: post
-title: "Environmental factors"
-description: "Small brain fart about being wary of what can deem a design no longe good enough"
-date: 2020-07-09
-image: "/assets/ss.jpg"
--->
 
 <h1><span>Environmental factors</span></h1>
 
