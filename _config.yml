@@ -3,4 +3,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 twitter_username: nocarsscott
 description: Small blog to help me get better at writing
-image: favicon.jpg
+title_image: favicon.jpg
