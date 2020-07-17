@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Environmental factors"
-description: "Small brain fart about being wary of what can deem a design no longe good enough"
-date: 2020-07-09
-image: "/assets/ss.jpg"
+layout:       post
+date:         2020-07-09
+title:        Environmental Factors
+description:  Small brain fart about being wary of what can deem a design no longe good enough"
+summary:      Design thoughts
+author:       nocarsscott
+image:        /assets/ss.jpg
 ---
 
 
