@@ -4,7 +4,7 @@ date:         2020-07-09
 title:        Environmental Factors
 description:  Small brain fart about being wary of what can deem a design no longer good enough
 author:       Scott Smith
-image:        scottsmith93.github.io/posts/ss.jpg
+image:        scottsmith93.github.io/favicon.jpg
 categories:   blog
 
 ---
