@@ -1,5 +1,18 @@
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@nocarsscott">
+<meta name="twitter:title" content="{{ page.title }}">
 
-<!-- Twitter cards -->
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.meta_description }}">
+{% else %}
+  <meta name="twitter:description"
+    content="{{ page.content | strip_html | xml_escape
+      | truncate: 200 }}">
+{% endif %}
+
+
+
+<!-- Twitter cards
 <meta name="twitter:site"    content="@{{ site.twitter_username }}">
 <meta name="twitter:creator" content="@{{ page.author }}">
 <meta name="twitter:title"   content="{{ page.title }}">
@@ -17,7 +30,7 @@
 <meta name="twitter:card"  content="summary">
 <meta name="twitter:image" content="{{ site.image }}">
 {% endif %}
-<!-- end of Twitter cards -->
+ end of Twitter cards -->
 
 
 <!-- <meta name="twitter:image" content="{{ site.url }}{{ page.image }}"> -->
