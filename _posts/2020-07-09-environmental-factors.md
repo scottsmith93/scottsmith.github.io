@@ -5,7 +5,7 @@ title:        Environmental Factors
 description:  Small brain fart about being wary of what can deem a design no longe good enough
 summary:      Small brain fart about being wary of what can deem a design no longe good enough
 author:       Scott Smith
-image:        http://www.scottsmith93.github.io/ss.jpg
+image:        /assets/ss.jpg
 categories:   blog
 
 ---
