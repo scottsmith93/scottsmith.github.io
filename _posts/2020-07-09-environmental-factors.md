@@ -6,6 +6,7 @@ description:  Small brain fart about being wary of what can deem a design no lon
 summary:      Design thoughts
 author:       nocarsscott
 image:        /ss.jpg
+categories:   blog
 ---
 
 
