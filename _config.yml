@@ -1,6 +1,6 @@
 name: Scott's Thoughts
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-twitter_username: nocarsscott
+twitter_username: @nocarsscott
 description: Small blog to help me get better at writing
 title_image: ss.jpg
