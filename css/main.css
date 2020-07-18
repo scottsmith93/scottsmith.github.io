@@ -62,13 +62,7 @@ h1 {
     padding-bottom:32px;
 }
 }
-@media only screen and (min-width: 481px) {
-  h1 {
-    font-size: 28px;
-    padding-top: 24px;
-    padding-right: 24px;
-  }
-}
+
 
 span {
       background-color: #F96B6B;
