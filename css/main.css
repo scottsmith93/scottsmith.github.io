@@ -9,7 +9,7 @@ body {
   background-color: #E5EAE6;
 }
 
-@media only screen and (min-width: 481px) {
+@screen and (max-width: 640px) {
   body {
     margin: auto;
     padding-top: 24px;
@@ -53,21 +53,16 @@ a:active {
     background-color: #096D4C;
     color: #ffffff;
 }
+@screen and (max-width: 640px) {
 h1 {
-    font-size: 5em;
-    font-family:'Rockwell', 'Arial', 'Sans-Serif';
+    font-size: 32;
+    font-family:'basier_circlebold', 'Arial', 'Sans-Serif';
     color: #002444;
     padding-top:24px;
-    padding-bottom:16px;
+    padding-bottom:32px;
 }
-@media only screen and (min-width: 481px) {
-  h1 {
-    font-size: 3.6em;
-    padding-top: 24px;
-    padding-right: 24px;
-  }
 }
-@media only screen and (min-width: 481px) {
+@screen and (max-width: 640px) {
   h2 {
     font-size: 2.4em;
     padding-top: 24px;
@@ -81,7 +76,7 @@ span {
 
 h2 {
     font-size: 3em;
-    font-family:'basier_circlebold', 'Arial', 'Sans-Serif';
+    font-family:'basier_circlemedium', 'Arial', 'Sans-Serif';
     color: #002444;
     padding-top:24px;
     padding-top:16px;
