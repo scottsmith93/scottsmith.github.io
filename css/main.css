@@ -69,16 +69,16 @@ span {
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 24px;
     font-family:'basier_circlemedium', 'Arial', 'Sans-Serif';
     color: #002444;
     padding-top:24px;
     padding-top:16px;
 }
 p {
-    font-size: 1.2em;
+    font-size: 18px;
     font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
-    line-height: 1.8em;
+    line-height: 27px;
     color: #262626;
 }
 footer {
@@ -98,7 +98,7 @@ ul.posts li {
 
 
 li {
-    font-size: 16px;
+    font-size: 18px;
     font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
     line-height: 1.8em;
     color: #262626;
