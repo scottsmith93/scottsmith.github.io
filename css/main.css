@@ -1,18 +1,30 @@
 
 
+
 body {
   max-width: 700px;
   padding: 12px;
   padding-bottom: 0;
+  margin: auto;
   background-color: #E5EAE6;
 }
 
 @media only screen and (min-width: 481px) {
   body {
+    margin: auto;
     padding-top: 24px;
     padding-right: 24px;
     padding-left: 24px;
   }
+}
+
+wrapper {
+    max-width: -webkit-calc(740px - (32px * 2));
+    max-width: calc(740px - (32px * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 32px;
+    padding-left: 32px;
 }
 
 nav ul, footer ul {
