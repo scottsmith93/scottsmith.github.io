@@ -54,13 +54,12 @@ a:active {
     color: #ffffff;
 }
 h1 {
-    font-size: 32px;
+    font-size: 48px;
     font-family:'silka_monoblack', 'Arial', 'Sans-Serif';
     color: #002444;
     padding-top:24px;
     padding-bottom:32px;
 }
-
 
 span {
       background-color: #F96B6B;
