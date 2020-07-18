@@ -59,6 +59,9 @@ h1 {
     color: #002444;
     padding-top:24px;
     padding-bottom:32px;
+    text-decoration: underline;
+    text-decoration-color: #F96B6B;
+    text-decoration-thickness: 8px;
 }
 
 span {
