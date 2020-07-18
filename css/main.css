@@ -55,16 +55,16 @@ a:active {
 }
 @screen and (max-width: 640px) {
 h1 {
-    font-size: 32;
+    font-size: 32px;
     font-family:'basier_circlebold', 'Arial', 'Sans-Serif';
     color: #002444;
     padding-top:24px;
     padding-bottom:32px;
 }
 }
-@screen and (max-width: 640px) {
-  h2 {
-    font-size: 2.4em;
+@media only screen and (min-width: 481px) {
+  h1 {
+    font-size: 3.6em;
     padding-top: 24px;
     padding-right: 24px;
   }
@@ -75,7 +75,7 @@ span {
 }
 
 h2 {
-    font-size: 3em;
+    font-size: 24px;
     font-family:'basier_circlemedium', 'Arial', 'Sans-Serif';
     color: #002444;
     padding-top:24px;
