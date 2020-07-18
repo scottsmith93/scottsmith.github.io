@@ -53,7 +53,7 @@ a:active {
     background-color: #096D4C;
     color: #ffffff;
 }
-@screen and (max-width: 640px) {
+@media and (max-width: 640px) {
 h1 {
     font-size: 32px;
     font-family:'silka_monoblack', 'Arial', 'Sans-Serif';
