@@ -9,7 +9,7 @@ image:        /favicon.png
 categories:   blog
 
 ---
-<h1>Factors</h1>
+<h1>Environmental Factors</h1>
 
 <p>The world is in a constant state of change – sometimes for the good, sometimes for the bad. Many factors with complex relationships that are all connected in one way or another. Some we can’t easily see. It’s fragile. Rub one factor the wrong way in isolation of everything else, it can cause ripples and side affects. It can break things.<p>
 

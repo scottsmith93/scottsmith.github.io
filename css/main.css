@@ -67,6 +67,13 @@ h1 {
     text-decoration-thickness: 8px;
 }
 
+@media screen and (max-width: 640px) {
+ h1 {
+  font-size: 36px;
+  line-height: 48px
+ }
+}
+
 h2 {
     font-size: 32px;
     font-family:'basier_circlemedium', 'Arial', 'Sans-Serif';
@@ -74,12 +81,29 @@ h2 {
     padding-top:24px;
     padding-bottom:16px;
 }
+@media screen and (max-width: 640px) {
+ h2 {
+  font-size: 24px;
+  line-height: 36px
+ }
+}
+
+
 p {
     font-size: 18px;
     font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
     line-height: 27px;
     color: #AFAFAF;
 }
+@media screen and (max-width: 640px) {
+p {
+    font-size: 16px;
+    font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
+    line-height: 27px;
+    color: #AFAFAF;
+  }
+}
+
 footer {
     border-top: 1px solid #ffffff;
     font-size: .8em;
@@ -99,7 +123,6 @@ ul.posts li {
 
 
 li {
-    font-size: 18px;
     font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
     line-height: 1.8em;
     color: #afafaf;
