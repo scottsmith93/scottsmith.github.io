@@ -4,7 +4,7 @@ date:         2020-07-09 20:19:51
 title:        Environmental Factors
 summary:      Be aware of what can render a design no longer good enough
 author:       Scott Smith
-image:        /favicon.jpg
+image:        /favicon.png
 categories:   blog
 
 ---
