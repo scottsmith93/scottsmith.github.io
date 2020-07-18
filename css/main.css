@@ -36,7 +36,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     font-family:'silka_monolight', 'Arial', 'Sans-Serif';
     display: inline;
-
+    padding: 8px;
 }
 a {
     font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
@@ -87,7 +87,8 @@ footer {
 ul.posts {
     font-size: 16px;
     font-family:'basier_circlemedium', 'Arial', 'Sans-Serif';
-
+    list-style: none;
+    padding-left: 0px;
 }
 
 ul.posts li {
