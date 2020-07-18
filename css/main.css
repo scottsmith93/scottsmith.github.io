@@ -48,6 +48,22 @@ h1 {
     padding-top:24px;
     padding-bottom:16px;
 }
+@media only screen and (min-width: 481px) {
+  h1 {
+    font-size: 3.6em;
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+}
+@media only screen and (min-width: 481px) {
+  h2 {
+    font-size: 2.4em;
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+}
 
 span {
       background-color: #F96B6B;
