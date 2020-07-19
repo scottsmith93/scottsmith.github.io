@@ -9,6 +9,25 @@ linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
 linear-gradient(90deg, rgba(255,255,255,.3) .5px, transparent .5px);
 background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
 background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;
+opacity: 5%
+}
+
+body {
+  max-width: 700px;
+  padding: 12px;
+  padding-bottom: 0;
+  margin: auto;
+  background-color: #141414;
+}
+
+
+@screen and (max-width: 640px) {
+  body {
+    margin: auto;
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
 }
 
 
