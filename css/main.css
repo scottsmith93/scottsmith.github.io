@@ -7,6 +7,13 @@ body {
   padding-bottom: 0;
   margin: auto;
   background-color: #141414;
+  background-image:
+    linear-gradient(rgb(25,25,25) 2px, transparent .5px),
+    linear-gradient(90deg, rgba(25,25,25,.4) 2px, transparent 1px),
+    linear-gradient(rgb(25,25,25) .1px, transparent 1px),
+    linear-gradient(90deg, rgba(25,25,25,.4) 1px, transparent 1px);
+  background-size: 80px 80px, 80px 80px, 16px 16px, 16px 16px;
+  background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 }
 
 
@@ -16,6 +23,13 @@ body {
     padding-top: 24px;
     padding-right: 24px;
     padding-left: 24px;
+    background-image:
+      linear-gradient(rgb(25,25,25) 2px, transparent .5px),
+      linear-gradient(90deg, rgba(25,25,25,.4) 2px, transparent 1px),
+      linear-gradient(rgb(25,25,25) .1px, transparent 1px),
+      linear-gradient(90deg, rgba(25,25,25,.4) 1px, transparent 1px);
+    background-size: 60px 60px, 60px 60px, 12px 12px, 12px 12px;
+    background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
   }
 }
 
