@@ -112,7 +112,7 @@ categories:   blog
 
 <p>It’s up to the team as a committee to agree what is a suitable level of documentation that should be expected from each discipline. If you say X is enough for your work, but many others on the team believes Y would be more suitable, then Y would be more suitable. Listen to your colleagues.</p>
 
-<p class="feature">Having good etiquette within your team is sexy.Making decisions and thought processes open for others to read and digest is sexy.</p>
+<p class="feature">Having good etiquette within your team is sexy. Making decisions and thought processes open for others to read and digest is sexy.</p>
 
 <p>It’s really valuable. Take time to ensure you aren't a miss if you're not around for a short while during a working day, or if you're taking time off.</p>
 
