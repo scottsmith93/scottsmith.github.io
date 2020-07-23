@@ -11,9 +11,13 @@ categories:   blog
 ---
 <h1>Unsexy Design Work is Sexy</h1>
 
+-----
+
 <p class="lead">Unsexy Design Work is the work you do as an individual on a daily basis that’s invisible to the people using your services. No one really knows it’s there. It’s very often a thankless task but it’s work that simply needs doing. Operational tasks.</p>
 
 <p>Doing our best to work from home through the Pandemic of 2020 has brought to the surface the importance of doing the Unsexy Design Work. Conversations are happening in the open about working hours and what flexible working means to an organisation.</p>
+
+-----
 
 <h2>The needs of the workforce is changing dramatically.</h2>
 
@@ -22,6 +26,8 @@ categories:   blog
 <p>Organisations are moving towards asynchronous working – not working at the same time. Not getting into the office between 8 and 9 and leaving between 4 and 5 as typically expected in office jobs. To cope with the pandemic and other responsibilities that are being hurled onto people, working patterns are changing.</p>
 
 <p>This is great and welcoming news. But with this culture shift, there will need to be some changes in how we go about doing our work. Some teams will already be doing this.</p>
+
+----
 
 <p class="hint">Side note: Realistically, this can apply to a wide net of professions but we’ll keep it contextually relevant to design for this blogsake.</p>
 
@@ -33,6 +39,8 @@ categories:   blog
 
 <p>This is a crucial element to creating an environment which can enable asynchronous working. The health, morale and well being of a team can be greatly improved through great documentation.</p>
 
+-----
+
 <h2>In the world of agile, it’s a common misconception that “documentation is waterfall”.</h2>
 
 <p>I’ve heard this with my own ears so many times. It’s simply not true. At all. Why and how has it become increasingly accepted to not document work under in the name of being agile? What happens when people leave? In places of high turnover, this attitude becomes very expensive and dangerous.</p>
@@ -40,6 +48,10 @@ categories:   blog
 <p>Of course, on the other hand, too much documentation can become documenting for the sake of documenting and then it becomes an overwhelming task which gets in the way of doing your craft.</p>
 
 <p>Facilitate a talk with the team to get an understanding of what level of documentation will be valuable for the team. There is no ‘one size fits all’ framework here unfortunately. It’s entirely dependant on the context of the setup of the team.</p>
+
+-----
+
+<h2>Real scenario</h2>
 
 <p>As a designer, there are 2 main outputs that others will likely expect of you. 1 is creating designs ready to test with people (only if you’re user centred, gulp) and 2 is creating ‘polished’ stuff which are then ready to be developed.</p>
 
@@ -73,11 +85,15 @@ categories:   blog
     <li>added your work to any other documentation which the team has agreed to use, for example a site map which shows all the pages and interactions in the service so anyone on the team can understand where and how the work fits in to the wider picture.</li>
   </ul>
 
-<p>The point is that there’s a lot of tasks here where the output is not generating pixels on a page that people using your service will end up interacting with. Sometimes they’re words. Answers which inform and contribute to a design. Add context to why a thing has been made the way it has.</p>
+-----
+
+<p class="lead">The point is that there’s a lot of tasks here where the output is not generating pixels on a page that people using your service will end up interacting with. Sometimes they’re words. Answers which inform and contribute to a design. Add context to why a thing has been made the way it has.</p>
 
 <p>These tasks are all necessary and it’s increasingly important to document this work while we’re working remotely. </p>
 
 <p>It’s always been important, but it’s becoming essential. Not everyone is going to be present at the same time because the needs of the workforce is changing. People need flexibility and more balance. The key to this, is ensuring your documentation can speak for you while you may not be present. People knowing where to go if they need anything. Going to a person should be a secondary action if documentation and commentary has been provided within a tool.</p>
+
+-----
 
 <h2>If these things aren’t being documented, knowledge will be lost.</h2>
 
@@ -89,11 +105,15 @@ categories:   blog
 
 <p>This has stuck with me and influences how we do our work within the team. It’s how I’ve come to assess the quality of my work. “Have I provided appropriate commentary (the marks for workings out) to the artefact I’ve created?” (the answer)</p>
 
+-----
+
 <h2>What steps are we taking as a team working on a service?</h2>
 
 <p>We’re taking small steps to gradually introduce small habits with the goal to leave a trail of our thinking with the aim of ultimately giving us more time to focus on designing.</p>
 
 <p>We’re trying to embed a standard within the team before picking up design work.</p>
+
+-----
 
 <p class="hint">There are different types of tasks you can be on with when a service is continuously being maintained and looked after</p>
 
@@ -111,6 +131,8 @@ categories:   blog
 <p>We don’t want to be rigid here. It’s flexible. Whatever works best for the team. Keep it at just enough. Find out what works well for those who may need to access something. </p>
 
 <p>It’s up to the team as a committee to agree what is a suitable level of documentation that should be expected from each discipline. If you say X is enough for your work, but many others on the team believes Y would be more suitable, then Y would be more suitable. Listen to your colleagues.</p>
+
+-----
 
 <p class="feature">Having good etiquette within your team is sexy. Making decisions and thought processes open for others to read and digest is sexy.</p>
 
