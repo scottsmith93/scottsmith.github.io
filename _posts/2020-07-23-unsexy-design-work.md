@@ -23,7 +23,7 @@ categories:   blog
 
 <p>This is great and welcoming news. But with this culture shift, there will need to be some changes in how we go about doing our work. Some teams will already be doing this.</p>
 
-<p>Side note: Realistically, this can apply to a wide net of professions but we’ll keep it contextually relevant to design for this blogsake.</p>
+<p class="hint">Side note: Realistically, this can apply to a wide net of professions but we’ll keep it contextually relevant to design for this blogsake.</p>
 
 <p>Have you ever felt like it’s been a big problem when you’ve taken time off work, and when you return, you’re bombarded with messages, emails and meetings getting stuff from you? People needing to know things from you? Hearing that people’s work is getting blocked because you haven’t been present?</p>
 
@@ -95,7 +95,7 @@ categories:   blog
 
 <p>We’re trying to embed a standard within the team before picking up design work.</p>
 
-<p><strong>There are different types of tasks you can be on with when a service is continuously being maintained and looked after</strong></p>
+<p class="hint">There are different types of tasks you can be on with when a service is continuously being maintained and looked after</p>
 
 <p>You can be making a change to a design due to a problem that people are encountering. You may have identified new needs which may result in new functionality to be created.</p>
 
