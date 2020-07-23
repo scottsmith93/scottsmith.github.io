@@ -113,6 +113,7 @@ p.feature {
   font-family: 'basier_circlesemibold', 'Arial', 'Sans-Serif';
   background: rgba(43, 237, 177, 0.1);
   padding-left: 24px;
+  padding-right: 24px;
   padding-top: 12px;
   padding-bottom: 12px;
   line-height: 1.2;
@@ -120,12 +121,32 @@ p.feature {
   max-width: 80%;
 }
 
+@media screen and (max-width: 640px) {
+p.feature {
+  border-left-style: solid;
+  border-color: #2BEDB1;
+  font-size: 28px;
+  color: #FFFFFF;
+  font-family: 'basier_circlesemibold', 'Arial', 'Sans-Serif';
+  background: rgba(43, 237, 177, 0.1);
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  line-height: 38px;
+  border-width: 24px;
+  max-width: 80%;
+}
+
+
+
 p.lead {
   font-size: 18px;
   font-family:'basier_circlemedium', 'Arial', 'Sans-Serif';
   line-height: auto;
   color: #FFFFFF;
 }
+
 @media screen and (max-width: 640px) {
 p.lead {
   font-size: 16px;
