@@ -108,14 +108,16 @@ h2 {
 p.feature {
   border-left-style: solid;
   border-color: #2BEDB1;
-  font-size: 28px;
+  font-size: 36px;
   color: #FFFFFF;
-  font-family:'basier_circlesemibold', 'Arial', 'Sans-Serif';
+  font-family: 'basier_circlesemibold', 'Arial', 'Sans-Serif';
   background: rgba(43, 237, 177, 0.1);
   padding-left: 24px;
-  padding-top: 8px;
-  padding-bottom: 8px;
-
+  padding-top: 12px;
+  padding-bottom: 12px;
+  line-height: 1.2;
+  border-width: 12px;
+  max-width: 80%;
 }
 
 p.lead {

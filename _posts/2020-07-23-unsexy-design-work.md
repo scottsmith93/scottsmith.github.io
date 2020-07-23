@@ -79,7 +79,7 @@ categories:   blog
 
 <p>It’s always been important, but it’s becoming essential. Not everyone is going to be present at the same time because the needs of the workforce is changing. People need flexibility and more balance. The key to this, is ensuring your documentation can speak for you while you may not be present. People knowing where to go if they need anything. Going to a person should be a secondary action if documentation and commentary has been provided within a tool.</p>
 
-<h2>If these things aren’t being documented, things absolutely will be forgotten eventually.</h2>
+<h2>If these things aren’t being documented, knowledge will be lost.</h2>
 
 <p class="feature">Designing how we design is just as important as the design.</p>
 
@@ -95,7 +95,7 @@ categories:   blog
 
 <p>We’re trying to embed a standard within the team before picking up design work.</p>
 
-<p>There are different types of tasks you can be on with when a service is continually being maintained. </p>
+<p><strong>There are different types of tasks you can be on with when a service is continuously being maintained and looked after<strong></p>
 
 <p>You can be making a change to a design due to a problem that people are encountering. You may have identified new needs which may result in new functionality to be created.</p>
 
@@ -106,14 +106,13 @@ categories:   blog
     <li>what outcome to we want to achieve? This is usually the hypothesis.</li>
   </ul>
 
-
 <p>Once we have this, we then provide a high-level commentary of what we’ve thought, considered and who we’ve spoken to. We’re not being too prescriptive with this section. </p>
 
 <p>We don’t want to be rigid here. It’s flexible. Whatever works best for the team. Keep it at just enough. Find out what works well for those who may need to access something. </p>
 
 <p>It’s up to the team as a committee to agree what is a suitable level of documentation that should be expected from each discipline. If you say X is enough for your work, but many others on the team believes Y would be more suitable, then Y would be more suitable. Listen to your colleagues. </p>
 
-<p><strong>Having good etiquette within your team is sexy. Making decisions and thought processes open for others to read and digest is sexy.</strong></p>
+<p class="feature">Having good etiquette within your team is sexy. Making decisions and thought processes open for others to read and digest is sexy.</p>
 
 <p>It’s really valuable. Take time to ensure you aren't a miss if you're not around for a short while during a working day, or if you're taking time off.</p>
 
