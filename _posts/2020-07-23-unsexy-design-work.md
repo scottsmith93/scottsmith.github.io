@@ -11,7 +11,7 @@ categories:   blog
 ---
 <h1>Unsexy Design Work is Sexy</h1>
 
-<p><strong>Unsexy Design Work is the work you do as an individual on a daily basis that’s invisible to the people using your services. No one really knows it’s there. It’s very often a thankless task but it’s work that simply needs doing. Operational tasks.</strong></p>
+<p class="lead">Unsexy Design Work is the work you do as an individual on a daily basis that’s invisible to the people using your services. No one really knows it’s there. It’s very often a thankless task but it’s work that simply needs doing. Operational tasks.</p>
 
 <p>Doing our best to work from home through the Pandemic of 2020 has brought to the surface the importance of doing the Unsexy Design Work. Conversations are happening in the open about working hours and what flexible working means to an organisation.</p>
 
