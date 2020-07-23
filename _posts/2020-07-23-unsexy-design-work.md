@@ -1,7 +1,7 @@
 ---
 layout:       post
 date:         2020-07-23 21:32:09
-title:        Unsexy Design Work is Sexy.
+title:        Unsexy Design Work is Sexy
 summary:      Documenting your work is important for the future of flexible working.
 description:  Documenting your work is important for the future of flexible working.
 author:       Scott Smith
@@ -59,6 +59,9 @@ categories:   blog
 
 <p>What does matter here is the documentation. Documentation a person interacting with your service will never see, but will help everyone on the team understand your work and create slicker working within the team.</p>
 
+<p class="feature">Designing how we design is just as important as the design.</p>
+
+
 <p>You might have a backlog with a series of questions and problems to investigate and you might pick these up as tasks within a sprint and sometimes you’ll create designs as a result to test.</p>
 
 <p>Besides creating the output, you’ll likely need to do some of the following to get to a pretty straight forward design:</p>
@@ -96,8 +99,6 @@ categories:   blog
 
 
 <h2>If these things aren’t being documented, knowledge will be lost.</h2>
-
-<p class="feature">Designing how we design is just as important as the design.</p>
 
 <p>Back in school, when doing maths exams, you might remember that you picked up marks for providing the correct answer as well as showing your workings out.</p>
 
