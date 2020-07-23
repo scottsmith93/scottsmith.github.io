@@ -19,7 +19,7 @@ categories:   blog
 
 
 
-<h2>The needs of the workforce is changing dramatically.</h2>
+<h2>The needs of the workforce is changing dramatically</h2>
 
 <p>Many organisations will have already adopted a remote working approach. For us at the NHSBSA, it’s very new, and there are challenges ahead.</p>
 
@@ -41,7 +41,7 @@ categories:   blog
 
 
 
-<h2>In the world of agile, it’s a common misconception that “documentation is waterfall”.</h2>
+<h2>In the world of agile, it’s a common misconception that “documentation is waterfall”</h2>
 
 <p>I’ve heard this with my own ears so many times. It’s simply not true. At all. Why and how has it become increasingly accepted to not document work under in the name of being agile? What happens when people leave? In places of high turnover, this attitude becomes very expensive and dangerous.</p>
 
@@ -51,7 +51,7 @@ categories:   blog
 
 
 
-<h2>Real scenario</h2>
+<h2>A real scenario</h2>
 
 <p>As a designer, there are 2 main outputs that others will likely expect of you. 1 is creating designs ready to test with people (only if you’re user centred, gulp) and 2 is creating ‘polished’ stuff which are then ready to be developed.</p>
 
@@ -113,8 +113,6 @@ categories:   blog
 
 <p>We’re trying to embed a standard within the team before picking up design work.</p>
 
-
-
 <p class="hint">There are different types of tasks you can be on with when a service is continuously being maintained and looked after</p>
 
 <p>You can be making a change to a design due to a problem that people are encountering. You may have identified new needs which may result in new functionality to be created.</p>
@@ -131,8 +129,6 @@ categories:   blog
 <p>We don’t want to be rigid here. It’s flexible. Whatever works best for the team. Keep it at just enough. Find out what works well for those who may need to access something. </p>
 
 <p>It’s up to the team as a committee to agree what is a suitable level of documentation that should be expected from each discipline. If you say X is enough for your work, but many others on the team believes Y would be more suitable, then Y would be more suitable. Listen to your colleagues.</p>
-
-
 
 <p class="feature">Having good etiquette within your team is sexy. Making decisions and thought processes open for others to read and digest is sexy.</p>
 
