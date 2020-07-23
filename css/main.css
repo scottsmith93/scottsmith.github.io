@@ -140,9 +140,18 @@ ul.posts li {
 
 
 li {
+    font-size: 18px;
     font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
-    line-height: 1.8em;
-    color: #afafaf;
+    line-height: 28px;
+    color: #AFAFAF;
+}
+@media screen and (max-width: 640px) {
+li {
+    font-size: 16px;
+    font-family:'basier_circleregular', 'Arial', 'Sans-Serif';
+    line-height: 28px;
+    color: #AFAFAF;
+  }
 }
 
 ::selection {
