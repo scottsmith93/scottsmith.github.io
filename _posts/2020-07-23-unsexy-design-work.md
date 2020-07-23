@@ -81,7 +81,7 @@ categories:   blog
 
 <h2>If these things aren’t being documented, things absolutely will be forgotten eventually.</h2>
 
-<h2>Designing how we design is just as important as the design.</h2>
+<p class="feature">Designing how we design is just as important as the design.</p>
 
 <p>Back in school, when doing maths exams, you might remember that you picked up marks for providing the correct answer as well as showing your workings out.</p>
 
