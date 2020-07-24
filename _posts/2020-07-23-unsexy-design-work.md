@@ -55,7 +55,7 @@ categories:   blog
 
 <p>As a designer, there are 2 main outputs that others will likely expect of you. 1 is creating designs ready to test with people (only if you’re user centred, gulp) and 2 is creating ‘polished’ stuff which are then ready to be developed.</p>
 
-<p>You might use tools such as Sketch, Sigma, Principle, Adobe XD or code to produce your designs. The tool here doesn’t really matter.</p>
+<p>You might use tools such as Sketch, Figma, Principle, Adobe XD or code to produce your designs. The tool here doesn’t really matter.</p>
 
 <p>What does matter here is the documentation. Documentation a person interacting with your service will never see, but will help everyone on the team understand your work and create slicker working within the team.</p>
 
