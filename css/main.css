@@ -117,21 +117,14 @@ p.hint {
   padding-bottom: 4px;
   line-height: 28px;
   border-width: 12px;
+  margin-top: 36px;
+  margin-bottom: 36px;
 }
 
 @media screen and (max-width: 640px) {
 p.hint {
-  border-left-style: solid;
-  border-color: #F96B6B;
   font-size: 16px;
-  color: #FFFFFF;
-  font-family: 'basier_circlesemibold', 'Arial', 'Sans-Serif';
-  padding-left: 24px;
-  padding-right: 24px;
-  padding-top: 4px;
-  padding-bottom: 4px;
   line-height: 28px;
-  border-width: 12px;
 }
 }
 
