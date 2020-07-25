@@ -1,2 +1,2 @@
-# scottsmith.github.io
+# scottsmith93.github.io
 Personal blog of some thoughts I have to create conversation. This is a WIP.
