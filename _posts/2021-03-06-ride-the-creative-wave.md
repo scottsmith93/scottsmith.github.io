@@ -1,7 +1,7 @@
 ---
 layout:       post
-date:         2020-07-23 21:32:09
-title:        Embrace the rollercoaster
+date:         2021-07-23 18:05:09
+title:        Embrace the busy and quiet times
 summary:      Go easy on yourself and embrace both the busy and quiet times in work.
 description:  Go easy on yourself and embrace both the busy and quiet times in work.
 author:       Scott Smith
