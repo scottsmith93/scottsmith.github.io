@@ -24,7 +24,7 @@ categories:   blog
 
 <p>There was a tweet I read a while back and I can not remember who said this or when (if you recognise it, please let me know so I can link to it) but it said something along the lines of having really low resilience while working from home in a pandemic. This resonated with me a lot. This is also amplified by being in the public sector. A meeting which didn't go so well where you could usually talk to someone in the office about it afterwards. Talk it out, get pulled back down to Earth and being pragmatic. The 1 million different usernames and passwords you need to remember and needing to contact help desks for certain software and hardware things and somewhere else for other software and hardware things. Hardware breaking down and needing to raise it and fear of colleagues thinking "yeah right, equipment is broken, of course it is, enjoy the time off".</p>
 
-<p class="feature">I've started helping myself more consistently recently by stopping over promising on everything in work. Push back a little bit to give myself some breathing space and being okay if you think some people might be a little bit annoyed by that.</p>
+<p class="feature">I've started helping myself more consistently recently by stopping myself over promising on everything in work. Push back a little bit to give myself some breathing space and being okay if you think some people might be a little bit annoyed by that.</p>
 
 <p>Not being as naive and assuming everything is easy, nodding in over confidence, when actually, we're building a super massive complex service and we're at a point where nothing is easy and things always need to be thought out very clearly and carefully.</p>
 
