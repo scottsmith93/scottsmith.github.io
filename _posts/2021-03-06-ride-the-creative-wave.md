@@ -1,6 +1,6 @@
 ---
 layout:       post
-date:         2021-07-23 18:05:09
+date:         2021-03-06 18:05:09
 title:        Embrace the busy and quiet times
 summary:      Go easy on yourself and embrace both the busy and quiet times in work.
 description:  Go easy on yourself and embrace both the busy and quiet times in work.
