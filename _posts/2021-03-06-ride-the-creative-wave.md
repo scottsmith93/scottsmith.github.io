@@ -9,7 +9,7 @@ image:        /favicon.png
 categories:   blog
 
 ---
-<h1>Embrace the rollercoaster</h1>
+<h1>Embrace the busy and quiet times</h1>
 
 
 <p class="lead">Wrapping up another week at work. It's been a manic one. It's been almost a full year of working from home, and I have some thoughts. This week I've felt sharp. Really sharp. Riding a sharp and focussed wave at the moment so thought I'd try pen some words.</p>
